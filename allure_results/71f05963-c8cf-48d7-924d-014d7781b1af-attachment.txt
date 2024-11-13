@@ -1,0 +1,1 @@
+ERROR    app.authors:authors.py:166 Error creating author: 1062 (23000): Duplicate entry 'test@author.com' for key 'email'
